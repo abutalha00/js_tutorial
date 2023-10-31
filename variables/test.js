@@ -25,3 +25,24 @@ console.log(
     "Null datatype is object and it can assign as value in variable: " + typeof null,
     typeof undefined
 )
+
+
+console.log(`
+
+`);
+
+
+// 
+// 
+// 
+
+let n = "10ali"
+let n1 = n;
+
+n = parseInt(n)
+console.log(n)
+
+n1 = Number(n1)
+console.log(`this variable value is: ${n1} 
+Datatype: ${typeof n1}`)
+
